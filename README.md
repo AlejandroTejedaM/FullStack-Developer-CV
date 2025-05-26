@@ -1,91 +1,49 @@
 # Alejandro Tejeda
 ## Full Stack Developer
+Phone: (+52) 231-148-8980 | Email: alex2227@hotmail.com  
+LinkedIn: linkedin.com/in/alejandro-tejeda-moreno-195967268 | Location: Mexico
 
-📞 (+52) 231-148-8980 | 📧 alex2227@hotmail.com | 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 📍 Mexico
+## Summary
+Full Stack Developer specializing in modern web applications using **NestJS**, **Spring Boot**, and **React**.
+Proven experience optimizing API performance and delivering scalable solutions. Skilled in Agile (**Scrum**) methodologies
+and cloud technologies (**Azure**, **Docker**). Expertise in AI model evaluation and database optimization.
 
----
+## Skills
+**Frontend:** React, Angular, JavaScript | **Backend:** Spring Boot, NestJS, Node.js  
+**Databases:** MongoDB, MySQL, PostgreSQL | **Cloud:** Azure, Docker, Git  
+**Languages:** Java, Python, TypeScript | **Tools:** PowerBI, GraphQL, TypeORM
 
-## 📋 Summary
+## Certifications
+*Microsoft Azure (AZ-900)* | *Scrum Fundamentals* | *CCNA: Switching, Routing, and Wireless Essentials*
 
-Full Stack Developer skilled in building scalable applications with design patterns using **NestJS**, **React** and **Spring Boot**. Skilled in AI model evaluation through critical analysis to align outputs with human values.
+## Work Experience
+### Backend Developer | **Farma Go**
+*2025 – Present*  
+- Developed and maintained RESTful APIs using **NestJS** and **TypeScript**, ensuring high performance and scalability
+- Implemented database interactions and optimized queries with **TypeORM**, improving response times by more than 25%
+- Collaborated in **Agile (Scrum)** teams to deliver features iteratively, using **Jira** for task management and sprint tracking
 
----
+### AI Evaluator (RLHF) | **Outlier**
+*2024 – Present*  
+- Evaluated 300+ AI-generated responses across multiple criteria including accuracy, cultural relevance, and instruction following  
+- Rewrote and improved AI outputs to meet quality standards, contributing to model performance improvements
+- Worked with cross-functional teams to refine AI model behavior through iterative feedback loops
 
-## 🛠️ Technical Skills
+## Project Experience
+### Social Networking Web App | Java, Spring Boot, MongoDB, GraphQL, Azure
+*August 2024 – December 2024*  
+- Developed REST APIs using **Spring Boot** for a social networking app, optimizing database schemas to enhance performance  
+- Integrated **Azure Content Moderator** for automated text/image moderation
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Angular, JavaScript, HTML/CSS |
-| **Backend** | Spring Boot, Node.js, NestJS, GraphQL, REST API, TypeORM |
-| **Databases** | MongoDB, MySQL, SQL Server, PostgreSQL |
-| **Languages** | Java, C#, Haskell, Dart, Python, TypeScript |
-| **Cloud & Tools** | Azure, Docker, Git, PowerBI |
-| **Certifications** | Microsoft Azure Fundamentals (AZ-900), Scrum Fundamentals |
+### Water Management Web App | React, JavaScript, Spring Boot, MySQL
+*January 2024 – May 2024*  
+- Built a full-stack application with **React** and **Spring Boot** manage user payments and water usage  
+- Designed a **MySQL** database for data integrity and scalability
 
----
-
-## 💼 Work Experience
-
-### 🚀 Backend Developer | **Farma Go**
-*March 2025 – Present*
-
-- [x] Developed and maintained RESTful APIs using **NestJS** and **TypeScript**, ensuring high performance and scalability
-- [x] Implemented database interactions and optimized queries with **TypeORM**, improving response times
-- [x] Collaborated in **Agile/SCRUM** teams to deliver features iteratively, utilizing **Jira** for task management
-
-> **Tech Stack:** `TypeScript` `NestJS` `TypeORM` `PostgreSQL`
-
-### 🤖 AI Evaluator (RLHF) | **Outlier**
-*December 2024 – Present*
-
-- [x] **AI Model Evaluation:** Analyzed and ranked AI-generated responses across key dimensions
-  - Localization (cultural relevance for Spanish MX audiences)
-  - Harmlessness (factual accuracy)
-  - Writing Quality (clarity/grammar)
-  - Instruction Following (adherence to guidelines)
-- [x] **Critical Feedback & Rewrites:** Provided detailed justifications for rankings and rewrote outputs
-- [x] **Collaboration:** Worked with cross-functional teams to refine AI model behavior
-
----
-
-## 🚀 Project Experience
-
-### 📱 Social Networking REST API | **Full Stack Developer**
-*August 2024 – December 2024*
-
-- [x] Developed REST APIs using **Spring Boot** for social networking app
-- [x] Optimized database schemas to enhance performance
-- [x] Integrated **Azure Content Moderator** for automated text/image moderation
-
-```bash
-Tech Stack: Java, Spring Boot, MongoDB, GraphQL, Azure
-```
-
-### 🏥 Patient Management Web App | **Full Stack Developer**
-*January 2024 – May 2024*
-
-- [x] Built full-stack application with **React** (frontend) and **Spring Boot** (backend)
-- [x] Managed user payments and water usage functionality
-- [x] Designed **MySQL** database for data integrity and scalability
-
-```bash
-Tech Stack: React, JavaScript, Spring Boot, MySQL
-```
-
----
-
-## 🎓 Education
-
+## Education
 **Bachelor of Computer Science**  
-*Instituto Tecnológico Superior de Teziutlán* | **2021 – 2025**
+Instituto Tecnológico Superior de Teziutlán | Expected Graduation: 2025  
+Relevant Coursework: Cloud Computing; Database Systems
 
----
-
-## 🌐 Languages
-
-| Language | Level |
-|----------|-------|
-| **English** | Intermediate (B1) |
-| **Spanish** | Native |
-
----
+## Languages
+**English**: Intermediate (Technical Documentation) | **Spanish**: Native
