@@ -9,7 +9,7 @@ Backend Developer and QA Engineer with hands-on experience building scalable RES
 **Backend Development:** NestJS, Node.js, TypeScript, Spring Boot, Java, RESTful APIs  
 **Quality Assurance:** Playwright, Manual Testing, API Testing, E2E Testing, Test Case Design  
 **Databases:** PostgreSQL, MySQL, MongoDB, TypeORM  
-**Frontend:** React, Angular, JavaScript  
+**Frontend (academic):** React, Angular, JavaScript  
 **Cloud & Tools:** Azure, Docker, Git, Jira, Postman, GraphQL  
 
 ## Certifications
@@ -18,21 +18,21 @@ Microsoft Azure Fundamentals (AZ-900) | Scrum Fundamentals Certified | CCNA: Swi
 ## Professional Experience
 
 ### Backend Developer | **Farma Go**
-*November 2024 – Present | Remote*  
+*November 2025 – February 2026 | Remote*  
 - Develop and maintain RESTful APIs using NestJS and TypeScript for pharmaceutical distribution platform  
 - Optimize database queries with TypeORM and PostgreSQL, achieving 25%+ improvement in API response times  
 - Design microservices architecture following SOLID principles and best practices  
 - Collaborate with frontend developers to define API contracts and participate in Agile Scrum ceremonies
 
 ### QA Engineer | **Farma Go**
-*November 2024 – Present | Remote*  
+*November 2025 – February 2026 | Remote*  
 - Design and execute manual test cases and develop automated E2E tests using Playwright  
 - Perform API testing with Postman to verify endpoint functionality and data validation  
 - Create test documentation including test plans and bug reports in Jira  
 - Reduce manual testing time by 40% through implementation of automated test suites  
 
 ### Software Development Intern | **Farma Go**
-*January 2024 – November 2024 | Remote*  
+*March 2025 – November 2025 | Remote*  
 - Developed backend services and REST APIs using NestJS and TypeScript  
 - Implemented database optimizations with TypeORM and PostgreSQL  
 - Collaborated in code reviews and Agile sprint ceremonies 
@@ -43,7 +43,8 @@ Microsoft Azure Fundamentals (AZ-900) | Scrum Fundamentals Certified | CCNA: Swi
 - Provide feedback to improve AI model performance across multiple evaluation criteria 
 
 ## Education
-**Bachelor of Computer Science** | Graduating January 2025  
+**Bachelor of Computer Science** | Expected April–May 2025 
+
 Instituto Tecnológico Superior de Teziutlán | Teziutlán, Puebla, Mexico
 
 ## Languages

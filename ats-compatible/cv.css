@@ -1,0 +1,9 @@
+body { font-size: 15px; line-height: 1.5; font-family: Georgia, "Times New Roman", serif; text-align: left; }
+h1 { font-size: 23px; margin-bottom: 4px; margin-top: 0; text-align: left; }
+h2 { font-size: 17px; margin-top: 12px; margin-bottom: 4px; border-bottom: 1px solid #999; padding-bottom: 2px; text-align: left; }
+h3 { font-size: 15px; margin-top: 8px; margin-bottom: 2px; text-align: left; }
+p { margin: 3px 0; text-align: left; }
+ul { margin: 3px 0; padding-left: 16px; }
+li { margin: 2px 0; text-align: left; }
+em { color: #333; }
+strong { color: #000; }
