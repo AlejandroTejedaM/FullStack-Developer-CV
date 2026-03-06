@@ -43,7 +43,7 @@ Microsoft Azure Fundamentals (AZ-900) | Scrum Fundamentals Certified | CCNA: Swi
 - Provide feedback to improve AI model performance across multiple evaluation criteria 
 
 ## Education
-**Bachelor of Computer Science** | Expected April–May 2025 
+**Bachelor of Computer Science** | Expected April–May 2026
 
 Instituto Tecnológico Superior de Teziutlán | Teziutlán, Puebla, Mexico
 
